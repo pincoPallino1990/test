@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+test
+=======
+Subdomain takeover/ broken-link
+>>>>>>> 2aed2e6 (POC)
